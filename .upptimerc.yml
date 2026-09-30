@@ -1,6 +1,6 @@
 # Change these first
 owner: administrator-traditiodelivery
-repo: administrator-traditiodelivery
+repo: td-health-status
 
 sites:
   - name: td-dev-api
