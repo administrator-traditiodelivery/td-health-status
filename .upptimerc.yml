@@ -1,13 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: administrator-traditiodelivery
+repo: administrator-traditiodelivery
 
 sites:
   - name: td-dev-api
     url: https://dev-api.traditiodelivery.com/api/ping
   - name: td-dev-process-api
     url: https://dev-process-api.traditiodelivery.com/api/ping
-  - name: td-admin-process-api
+  - name: td-dev-admin-api
     url: https://dev-admin-api.traditiodelivery.com/api/ping
   - name: td-api
     url: https://api.traditiodelivery.com/api/ping
