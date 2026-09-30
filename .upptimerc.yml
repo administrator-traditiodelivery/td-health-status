@@ -20,3 +20,4 @@ status-website:
   baseUrl: /td-health-status            # required for github.io/<repo> hosting
   logoUrl: https://traditiodelivery.com/assets/img/TraditioLogo-2.svg
   name: Traditio Services Health Status
+  theme: ocean
